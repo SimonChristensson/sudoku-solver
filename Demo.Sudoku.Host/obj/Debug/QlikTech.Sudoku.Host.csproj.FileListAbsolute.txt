@@ -1,0 +1,17 @@
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\QlikTech.Sudoku.Host.exe
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\QlikTech.Sudoku.Host.pdb
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\obj\Debug\QlikTech.Sudoku.Host.csprojResolveAssemblyReference.cache
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\obj\Debug\QlikTech.Sudoku.Host.exe
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\obj\Debug\QlikTech.Sudoku.Host.pdb
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\QlikTech.Sudoku.Services.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\QlikTech.Sudoku.Services.pdb
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\Autofac.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\System.Web.Http.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\System.Net.Http.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\System.Net.Http.Formatting.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\Autofac.xml
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\System.Web.Http.xml
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\System.Net.Http.xml
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\System.Net.Http.Formatting.xml
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\Autofac.Integration.Wcf.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Host\bin\Debug\Autofac.Integration.Wcf.xml

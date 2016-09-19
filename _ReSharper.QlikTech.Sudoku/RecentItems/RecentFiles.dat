@@ -1,0 +1,45 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:IBlock.cs" caret="165" fromTop="6" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:Block.cs" caret="53" fromTop="2" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:Node.cs" caret="53" fromTop="2" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:SparseMatrix.cs" caret="134" fromTop="11" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:SudukoBoard.cs" caret="303" fromTop="14" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:SudukoServices.cs" caret="616" fromTop="19" />
+    <File id="1EFB22C2-C8C8-4DAA-BE46-194957C443A0/f:Program.cs" caret="689" fromTop="30" />
+    <File id="99D356FE-0A83-43C0-8721-FC5A4DDC34DC/f:packages.config" caret="0" fromTop="0" />
+    <File id="1EFB22C2-C8C8-4DAA-BE46-194957C443A0/f:SudukoTest.cs" caret="2628" fromTop="37" />
+    <File id="93174E43-63D5-4F1D-AF16-F243317B1821/f:IWebServices.cs" caret="441" fromTop="13" />
+    <File id="99D356FE-0A83-43C0-8721-FC5A4DDC34DC/d:Configuration/f:ContainerFactory.cs" caret="373" fromTop="14" />
+    <File id="99D356FE-0A83-43C0-8721-FC5A4DDC34DC/f:Program.cs" caret="900" fromTop="14" />
+    <File id="99D356FE-0A83-43C0-8721-FC5A4DDC34DC/d:Configuration/f:HostFactory.cs" caret="824" fromTop="20" />
+    <File id="93174E43-63D5-4F1D-AF16-F243317B1821/f:IDataQueries.cs" caret="159" fromTop="6" />
+    <File id="93174E43-63D5-4F1D-AF16-F243317B1821/f:WebServices.cs" caret="771" fromTop="24" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/f:DefaultCustomization.cs" caret="148" fromTop="7" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/f:WithAutoData.cs" caret="548" fromTop="24" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/f:WithSubject.cs" caret="252" fromTop="12" />
+    <File id="93174E43-63D5-4F1D-AF16-F243317B1821/f:DataQueries.cs" caret="588" fromTop="18" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/d:Services/d:Queries/f:DataQueriesSpecs.cs" caret="293" fromTop="13" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/d:Services/d:Queries/f:When_retrieving_the_names_of_all_data_files.cs" caret="172" fromTop="4" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:IBlock.cs" caret="165" fromTop="6" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:Block.cs" caret="106" fromTop="4" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:Node.cs" caret="273" fromTop="12" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:SudukoBoard.cs" caret="291" fromTop="11" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:SudukoServices.cs" caret="820" fromTop="25" />
+    <File id="DF2A19B6-F3A1-4D5E-8015-8E3736897D80/f:SparseMatrix.cs" caret="120" fromTop="7" />
+    <File id="1EFB22C2-C8C8-4DAA-BE46-194957C443A0/f:Program.cs" caret="448" fromTop="17" />
+    <File id="1EFB22C2-C8C8-4DAA-BE46-194957C443A0/f:SudukoTest.cs" caret="2127" fromTop="18" />
+    <File id="93174E43-63D5-4F1D-AF16-F243317B1821/f:IDataQueries.cs" caret="138" fromTop="6" />
+    <File id="93174E43-63D5-4F1D-AF16-F243317B1821/f:IWebServices.cs" caret="468" fromTop="13" />
+    <File id="99D356FE-0A83-43C0-8721-FC5A4DDC34DC/d:Configuration/f:HostFactory.cs" caret="273" fromTop="10" />
+    <File id="99D356FE-0A83-43C0-8721-FC5A4DDC34DC/f:Program.cs" caret="886" fromTop="13" />
+    <File id="93174E43-63D5-4F1D-AF16-F243317B1821/f:WebServices.cs" caret="439" fromTop="14" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/f:WithAutoData.cs" caret="100" fromTop="3" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/f:WithSubject.cs" caret="122" fromTop="4" />
+    <File id="93174E43-63D5-4F1D-AF16-F243317B1821/f:DataQueries.cs" caret="146" fromTop="7" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/d:Services/d:Queries/f:When_retrieving_the_names_of_all_data_files.cs" caret="1119" fromTop="30" />
+    <File id="826B50A0-D873-4E54-9594-0A3701436DBF/d:Services/d:Queries/f:DataQueriesSpecs.cs" caret="232" fromTop="8" />
+  </RecentEdits>
+</RecentFiles>

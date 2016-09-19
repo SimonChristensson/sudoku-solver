@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>QlikTech Sudoku</title>
+        <script src="Script/jquery-2.1.0.min.js"></script>
+        <script src="Script/jquery-2.1.0.js"></script>
+        <script src="Script/main.js"></script> 
+        <link rel="stylesheet" href="Content/main.css" />
+    </head>
+
+    <body>
+    	<div style="position: relative; width: 100%; height: 140px; background-color: rgb(10, 47, 18);">
+             <div class="MainHeaderTextDiv">Sudoku Solver</div>
+        </div>
+
+        <div style="mainContent">
+        	<div class ="fileSelect">
+        		<div style="position:relative"> Please select one of the predefined files</div>
+        		<select style="position:relative" id="fileSelector"></select>
+        	</div>
+
+        	<div style="position:relative; margin-top:30px">
+        	   <div id ="currentFileName" >CurrentFileName</div>
+        	   <table id="sudokuBoard">        		
+        	   </table>
+            </div>
+
+            <div class="toLeftCornerOfBoardButtons" style="clear:both">
+                <button class="sodoukuButtons" id="solveButton" type="button">Solve</button>
+                <button class="sodoukuButtons" id="checkButton" type="button">Check</button>
+                <button class="sodoukuButtons" id="resetButton" type="button">Reset</button>
+            </div>
+
+            <div class="checkMessage">
+                <div id="validationMessage" class="message"></div>
+            </div>
+        </div>
+    </body>
+</html>
+
+

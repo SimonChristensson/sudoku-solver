@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Demo Sudoku</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="Content/main.css"/>
+    <link rel="stylesheet" href="Content/bootstrap.min.css"/>
+    <link rel="stylesheet" href="Content/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="Content/bootstrap-theme-stylish.css"/>
+    <link rel="stylesheet" href="Content/font-awesome.min.css"/>
+    <link rel="stylesheet" href="Content/fonts.css" />
+</head>
+<body>
+
+    <!-- Navigation -->
+    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+    <nav id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
+            <li class="sidebar-brand">
+                <a href="#top" onclick="$('#menu-close').click()">Sudoku Solver</a>
+            </li>
+            <li>
+                <a href="#top" onclick="$('#menu-close').click()">Hem</a>
+            </li>
+            <li>
+                <a href="#about" onclick="$('#menu-close').click()">Om</a>
+            </li>
+            <li>
+                <a href="#services" onclick="$('#menu-close').click()">Tjänster</a>
+            </li>
+            <li>
+                <a href="#portfolio" onclick="$('#menu-close').click()">Portfolio</a>
+            </li>
+            <li>
+                <a href="#contact" onclick="$('#menu-close').click()">Kontakt</a>
+            </li>
+        </ul>
+    </nav>
+    <!-- Navigation -->
+
+
+<div class="main-header"><span>SUDOKU SOLVER</span></div>
+
+<div id="boards">
+    <div data-bind='component: "board-view"'></div>
+</div>
+
+
+<script data-main="scripts/main" src="scripts/require.js"></script>
+
+<!--
+<script src="scripts/jquery-3.1.0.min.js"></script>
+<script src="scripts/bootstrap.min.js"></script>
+<script src="scripts/knockout-3.4.0.js"></script>
+<script src="scripts/require.js"></script>
+<script src="scripts/text.js"></script>
+<script src="scripts/main.js"></script>
+-->
+<!--
+Load All the views and models needed
+-->
+
+
+
+
+
+</body>
+</html>

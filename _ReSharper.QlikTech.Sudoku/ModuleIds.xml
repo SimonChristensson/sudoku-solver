@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="1EFB22C2-C8C8-4DAA-BE46-194957C443A0" ModuleId="QlikTech.Sudoku.Application" />
+  <Module PersistentId="DF2A19B6-F3A1-4D5E-8015-8E3736897D80" ModuleId="QlikTech.Sudoku.Board" />
+  <Module PersistentId="99D356FE-0A83-43C0-8721-FC5A4DDC34DC" ModuleId="QlikTech.Sudoku.Host" />
+  <Module PersistentId="93174E43-63D5-4F1D-AF16-F243317B1821" ModuleId="QlikTech.Sudoku.Contracts" />
+  <Module PersistentId="826B50A0-D873-4E54-9594-0A3701436DBF" ModuleId="QlikTech.Sudoku.Tests" />
+</Modules>

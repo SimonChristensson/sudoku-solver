@@ -1,0 +1,10 @@
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\bin\Debug\Demo.Sudoku.Lab.exe
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\bin\Debug\Demo.Sudoku.Lab.pdb
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\obj\Debug\Demo.Sudoku.Lab.csprojResolveAssemblyReference.cache
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\obj\Debug\Demo.Sudoku.Lab.exe
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\obj\Debug\Demo.Sudoku.Lab.pdb
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\bin\Debug\Demo.Sudoku.Lab.exe
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\bin\Debug\Demo.Sudoku.Lab.pdb
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\obj\Debug\Demo.Sudoku.Lab.csprojResolveAssemblyReference.cache
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\obj\Debug\Demo.Sudoku.Lab.exe
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Lab\obj\Debug\Demo.Sudoku.Lab.pdb

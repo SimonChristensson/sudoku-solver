@@ -1,0 +1,14 @@
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Services\bin\Debug\Demo.Sudoku.Services.dll
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Services\bin\Debug\Demo.Sudoku.Services.pdb
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Services\bin\Debug\Autofac.dll
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Services\bin\Debug\Autofac.xml
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Services\obj\Debug\Demo.Sudoku.Services.csprojResolveAssemblyReference.cache
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Services\obj\Debug\Demo.Sudoku.Services.dll
+F:\Projects\Demo.Sudoku\Demo.Sudoku.Services\obj\Debug\Demo.Sudoku.Services.pdb
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Services\bin\Debug\Demo.Sudoku.Services.dll
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Services\bin\Debug\Demo.Sudoku.Services.pdb
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Services\bin\Debug\Autofac.dll
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Services\bin\Debug\Autofac.xml
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Services\obj\Debug\Demo.Sudoku.Services.csprojResolveAssemblyReference.cache
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Services\obj\Debug\Demo.Sudoku.Services.dll
+D:\Projects\Demo.Sudoku\Demo.Sudoku.Services\obj\Debug\Demo.Sudoku.Services.pdb

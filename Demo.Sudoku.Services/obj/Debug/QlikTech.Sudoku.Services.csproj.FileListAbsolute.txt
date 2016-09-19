@@ -1,0 +1,7 @@
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Services\bin\Debug\QlikTech.Sudoku.Services.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Services\bin\Debug\QlikTech.Sudoku.Services.pdb
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Services\obj\Debug\QlikTech.Sudoku.Services.csprojResolveAssemblyReference.cache
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Services\obj\Debug\QlikTech.Sudoku.Services.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Services\obj\Debug\QlikTech.Sudoku.Services.pdb
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Services\bin\Debug\Autofac.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Services\bin\Debug\Autofac.xml

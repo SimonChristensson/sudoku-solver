@@ -1,0 +1,5 @@
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Contracts\bin\Debug\QlikTech.Sudoku.Contracts.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Contracts\bin\Debug\QlikTech.Sudoku.Contracts.pdb
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Contracts\obj\Debug\QlikTech.Sudoku.Contracts.csprojResolveAssemblyReference.cache
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Contracts\obj\Debug\QlikTech.Sudoku.Contracts.dll
+F:\Projects\QlikTech.Sudoku\QlikTech.Sudoku\QlikTech.Sudoku.Contracts\obj\Debug\QlikTech.Sudoku.Contracts.pdb

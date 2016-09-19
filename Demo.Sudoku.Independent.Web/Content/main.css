@@ -1,0 +1,146 @@
+
+#headerDiv {
+   /*width:740px;*/
+    width: 100%;
+   height:auto;
+   margin-left:auto;
+   margin-right:auto;
+   position: relative;
+   clear:both;
+   top: -100px;
+   z-index: 1;
+}
+
+body 
+{
+    margin: 0;
+}
+
+.MainHeaderTextDiv {
+    /*background-color: black;*/ 
+    width: 650px;
+
+    position:relative;
+    margin-left: auto;
+    margin-right:auto;
+    height: 100%;
+    padding-bottom: 20px;
+    font-family: "Arial Black";
+    color: white;
+    font-size: 5.0em;
+    font-weight:bolder;
+    background-color: rgb(10, 47, 18);
+    top:52px;
+    
+    height:10px;
+}
+
+.inputElement 
+{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 2em;
+    border: none;
+}
+
+#sudokuBoard
+{
+    width:auto;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right:auto;
+    
+}
+
+#sudokuBoard  tr td
+{
+    border: solid 1px black;
+    margin: 0;
+    padding: 0;
+}
+
+
+.mainContent 
+{
+    background-color: white;
+    width: 950px;position:relative;
+    margin-left: auto;
+    margin-right:auto;
+    height: 100%; 
+    padding-bottom: 20px;
+    top:30px;
+}
+.fileSelect 
+{
+    width:auto;
+    margin-left: auto;
+    margin-right:auto;
+    width: 300px;
+    padding-right:330px;
+    margin-top:30px;
+}
+#currentFileName 
+{
+    width:auto;
+    margin-left: auto;
+    margin-right:auto;
+    width:100px;
+    padding-right: 305px;
+    font-weight: bold;   
+}
+
+.toLeftCornerOfBoard 
+{
+    width:auto;
+    margin-left: auto;
+    margin-right:auto;
+    
+    padding-right: 305px;
+    position: relative;
+    
+
+}
+
+.toLeftCornerOfBoardButtons
+{
+    width:315px;
+    margin-left: auto;
+    margin-right:auto;
+    padding-right: 85px;
+    position: relative;
+}
+
+.checkMessage
+{
+    width:415px;
+    margin-left: auto;
+    margin-right:auto;
+    padding-left: 15px;
+    position: relative;
+    clear: both;
+}
+
+.buttonDiv 
+{
+  
+}
+
+.sodoukuButtons 
+{
+    cursor: pointer;
+    position:relative;
+    float:left;
+    font-weight: bold;
+    width: 100px;
+    margin-right:5px;
+}
+
+.message 
+{
+    position:relative;
+    float:left;
+    font-weight: bold;
+    width: 300px;
+    margin-right:5px;
+}
